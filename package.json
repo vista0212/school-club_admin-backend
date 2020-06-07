@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/cors": "^2.8.6",
     "@types/lodash": "^4.14.149",
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
